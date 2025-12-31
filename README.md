@@ -19,3 +19,21 @@ I created this repo as part of my learning journey to improve **problem solving,
 ## Notes
 - Solutions are written for learning and revision  
 - This repository is updated as I move through the study plan  
+
+## Contact
+
+- **LinkedIn**: [Ziad Mohamed](https://www.linkedin.com/in/ziad-mohamed-029b69281/)
+- [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ziad-mohamed-029b69281/)
+- **Gmail**: ziadaboshiesha2@gmail.com
+- [![LinkedIn](https://img.icons8.com/color/48/000000/gmail.png)](mailto:ziadaboshiesha2@gmail.com)
+
+
+
+Feel free to reach out to me for any questions or discussions related to coding challenges, algorithms, or anything else!
+
+
+
+  
+
+
+Happy coding! 🚀
